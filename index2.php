@@ -1,3 +1,3 @@
 <?php
 
-echo "index2.php";
+echo "index3.php";
